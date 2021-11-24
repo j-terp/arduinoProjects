@@ -3,7 +3,7 @@ Using an arduino to create a simple door alarm system
 A simple alarm system for a door, using an Arduino Uno. This is a proof of concept and not a fully fledged product.
 
 ## Introduction
-This project uses an Arduino UNO for reading the magnetic sensor at the door, and responds accordingly with both audio and visuals.
+This project uses an arduino for reading the magnetic sensor at the door, and responds accordingly with both audio and visuals.
 
 This could be used in a further project, since it's quite small and responsive. It uses the Serial Monitor in the terminal to monitor the state of the door and the alarm, and uses a buzzor and LEDs for outside the terminal.
 
